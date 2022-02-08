@@ -1,0 +1,3 @@
+STA A
+
+//what if we have: STA 45A, how could we tell that it is in base 16 already?

@@ -1,0 +1,9 @@
+    PSHA
+foo:
+    PSHX
+bar:
+    PSHF
+foo:
+    HLT
+bar:
+    HLT
